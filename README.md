@@ -19,6 +19,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
+        <li><a href="#prerequisites">Prerequisites</li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -44,7 +45,8 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
+### Prerequisites
+1. Bash Shell
 ### Installation
 
 1. Clone the repo
@@ -58,7 +60,7 @@
     ```
     y is the script name
 
-3. Run the following in Terminal or CMD
+3. Run the following in Terminal
    ```sh
    ./x.sh -h 
    ```
