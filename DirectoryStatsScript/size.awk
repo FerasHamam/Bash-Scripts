@@ -16,7 +16,7 @@
         print "Size of files:",SUM/1024/1024,"MB"
         if(stats == 1)
                 {
-                        print "Max file NAME:",max_name,"  Size:",MAX/1024/1024"MB"
+                        print "Max file NAME:",max_name,"  Size:",MAX/1024/1024,"MB"
                         print "Min File Name:",min_name,"  Size:",MIN/1024/1024,"MB"
                 } 
         }
