@@ -54,17 +54,18 @@
    ```sh
    git clone https://github.com/FerasHamam/Bash-Scripts.git
    ```
-2. Give permissions to the script
+    
+2. Give permissions to the script in Terminal
     ```sh
-    chmod a+x y.sh
+    chmod a+x z.sh
     ```
-    y is the script name
+    z is the script name
 
 3. Run the following in Terminal
    ```sh
-   ./x.sh -h 
+   ./z.sh -h 
    ```
-   x is the script name
+   z is the script name
    
 ## Contact
 
